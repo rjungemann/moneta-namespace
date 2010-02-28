@@ -10,6 +10,7 @@ Inspired by the redis-namespace library.
 
 Usage:
 
+  require 'moneta/namespace'
 	require 'moneta/memory'
 	
 	store = Moneta::Memory.new
